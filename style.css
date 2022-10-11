@@ -218,11 +218,11 @@ body {
 }
 
 .about__job > img {
-  width: 150px;
+  width: 100px;
   border-radius: 20%;
   margin-top: 10px;
   margin-left: 20px;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 
 .job__description {
